@@ -1,0 +1,9 @@
+()()  valido  
+[][][]  valido  
+{}{}{}{}  valido  
+{[()]}  valido  
+{{{}}})  invalido  
+)){][]((  invalido  
+{][]][]  invalido  
+(([])){}  valido  
+{[[]]}([])  valido  
